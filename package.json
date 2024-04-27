@@ -1,0 +1,19 @@
+{
+  "name": "command-line-todo",
+  "version": "1.0.0",
+  "description": "command line todo application with all the features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'We really need to add some testing!!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HLVN-1/command-line-todo.git"
+  },
+  "author": "Jason Newsom <jnewsom405@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HLVN-1/command-line-todo/issues"
+  },
+  "homepage": "https://github.com/HLVN-1/command-line-todo#readme"
+}
